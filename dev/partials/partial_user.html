@@ -156,24 +156,6 @@
                         </div>
                         <!-- end User -->
                         <!-- Password -->
-                        <input type="password" ng-required="modalOptions.passwordChanged" name="oldcheckpassword"
-                               id="password" ng-model="data.user.checkOldPassword" ng-show="false"
-                               placeholder="password" value="{{data.user.checkOldPassword}}">
-
-                        <div class="control-group">
-                            <label class="control-label" for="oldpassword">Old Password: <img
-                                    src="img/widget/pw_ico.png" alt="ico"/></label>
-
-                            <div class="controls">
-                                <input type="password" ng-required="modalOptions.passwordChanged" name='oldpassword'
-                                       id="oldpassword" password-validator="oldcheckpassword"
-                                       ng-model="data.user.oldPassword" placeholder="password">
-                                <span class='help-inline'
-                                      ng-show='form.oldpassword.$valid && modalOptions.passwordChanged'>
-                                    <i class='icon-ok'></i>
-                                </span>
-                            </div>
-                        </div>
                         <div class="control-group">
                             <label class="control-label" for="password">New Password: <img src="img/widget/pw_ico.png"
                                                                                            alt="ico"/></label>
