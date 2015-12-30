@@ -6,15 +6,15 @@
         "url": ""
     },
     "files": {
-        "dev\\js\\conf.js": {
-            "name": "dev\\js\\conf.js",
+        "dev/js/conf.js": {
+            "name": "dev/js/conf.js",
             "modules": {},
             "classes": {},
             "fors": {},
             "namespaces": {}
         },
-        "dev\\js\\controllers.js": {
-            "name": "dev\\js\\controllers.js",
+        "dev/js/controllers.js": {
+            "name": "dev/js/controllers.js",
             "modules": {},
             "classes": {
                 "MainCtrl": 1,
@@ -35,15 +35,15 @@
             "fors": {},
             "namespaces": {}
         },
-        "dev\\js\\directives.js": {
-            "name": "dev\\js\\directives.js",
+        "dev/js/directives.js": {
+            "name": "dev/js/directives.js",
             "modules": {},
             "classes": {},
             "fors": {},
             "namespaces": {}
         },
-        "dev\\js\\services.js": {
-            "name": "dev\\js\\services.js",
+        "dev/js/services.js": {
+            "name": "dev/js/services.js",
             "modules": {},
             "classes": {
                 "Page": 1,
@@ -69,7 +69,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 17,
             "description": "main-view-controller. first controller which will be instanced"
         },
@@ -81,7 +81,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 84,
             "description": "view-controller for the errors"
         },
@@ -93,7 +93,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 121,
             "description": "view-controller for the process-service"
         },
@@ -105,7 +105,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 129,
             "description": "view-controller for the alert-service"
         },
@@ -117,7 +117,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 137,
             "description": "view-controller for the dashboard"
         },
@@ -129,7 +129,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 146,
             "description": "view-controller for the navbar"
         },
@@ -141,7 +141,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 169,
             "description": "Message-Class to transfer data between the domain-Ctrl"
         },
@@ -153,7 +153,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 178,
             "description": "view-controller for the domains"
         },
@@ -165,7 +165,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 334,
             "description": "view-controller for the transports"
         },
@@ -177,7 +177,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 428,
             "description": "Message-Class to transfer data between the user-Ctrl"
         },
@@ -189,7 +189,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 440,
             "description": "view-controller for the user"
         },
@@ -201,7 +201,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 595,
             "description": "view-controller for the user-aliasses"
         },
@@ -213,7 +213,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 657,
             "description": "view-controller for the summary"
         },
@@ -225,7 +225,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 685,
             "description": "view-controller for the api-keys"
         },
@@ -237,7 +237,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 18,
             "description": "central page-service. stores the actual page-title"
         },
@@ -249,7 +249,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 36,
             "description": "central modal-service. responsible for opening an modal-window"
         },
@@ -261,7 +261,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 98,
             "description": "central modal-domain-selection-service. responsible for opening the domain-selection-view"
         },
@@ -273,7 +273,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 148,
             "description": "central modal-server-selection-service. responsible for opening the server-selection-view"
         },
@@ -285,7 +285,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 227,
             "description": "central process-service. stores a stack for each \"thread\" which is performed"
         },
@@ -297,7 +297,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 236,
             "description": "central process-provider. delegates the functions to a ProcessServiceInstance"
         },
@@ -309,7 +309,7 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 257,
             "description": "central error-service. stores the current Error"
         },
@@ -321,32 +321,32 @@
             "extensions": [],
             "plugin_for": [],
             "extension_for": [],
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 315,
             "description": "Central Response Handler. All Responses will be intercepted by the add method"
         }
     },
     "classitems": [
         {
-            "file": "dev\\js\\conf.js",
+            "file": "dev/js/conf.js",
             "line": 20,
             "description": "Run-Configuration of the Apllication-Settings",
             "class": "MainCtrl"
         },
         {
-            "file": "dev\\js\\conf.js",
+            "file": "dev/js/conf.js",
             "line": 63,
             "description": "Configuration of the Apllication-Views",
             "class": "MainCtrl"
         },
         {
-            "file": "dev\\js\\conf.js",
+            "file": "dev/js/conf.js",
             "line": 74,
             "description": "Global constants for the Application",
             "class": "MainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 24,
             "description": "sets the new Server from the Selection-View and refreshes the app.",
             "itemtype": "method",
@@ -354,7 +354,7 @@
             "class": "MainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 37,
             "description": "initialises the Services which will be need in all scopes",
             "itemtype": "method",
@@ -362,7 +362,7 @@
             "class": "MainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 55,
             "description": "click-event for the postyIcon",
             "itemtype": "method",
@@ -370,7 +370,7 @@
             "class": "MainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 64,
             "description": "click-event to change the Server",
             "itemtype": "method",
@@ -378,7 +378,7 @@
             "class": "MainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 73,
             "description": "click-event to change the Server",
             "itemtype": "method",
@@ -390,7 +390,7 @@
             "class": "MainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 91,
             "description": "initialises the controller-data",
             "itemtype": "method",
@@ -398,7 +398,7 @@
             "class": "ErrorCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 100,
             "description": "returns the status-code of the Errror-Service",
             "itemtype": "method",
@@ -410,7 +410,7 @@
             "class": "ErrorCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 110,
             "description": "returns the message of the Errror-Service",
             "itemtype": "method",
@@ -422,7 +422,7 @@
             "class": "ErrorCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 184,
             "description": "initialises the controller-data",
             "itemtype": "method",
@@ -430,7 +430,7 @@
             "class": "DomainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 193,
             "description": "returns the list of the Domains.\nIf not allDomains then the list is filled with the currentDomain.",
             "itemtype": "method",
@@ -442,7 +442,7 @@
             "class": "DomainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 210,
             "description": "create a new domain",
             "itemtype": "method",
@@ -450,7 +450,7 @@
             "class": "DomainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 231,
             "description": "edit an existing domain",
             "itemtype": "method",
@@ -465,7 +465,7 @@
             "class": "DomainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 259,
             "description": "remove an existing domain",
             "itemtype": "method",
@@ -480,7 +480,7 @@
             "class": "DomainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 280,
             "description": "clears the view",
             "itemtype": "method",
@@ -488,7 +488,7 @@
             "class": "DomainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 291,
             "description": "initialises the controller-data",
             "itemtype": "method",
@@ -496,7 +496,7 @@
             "class": "DomainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 302,
             "description": "returns the list of the DomainAliasses",
             "itemtype": "method",
@@ -508,7 +508,7 @@
             "class": "DomainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 312,
             "description": "create a new alias",
             "itemtype": "method",
@@ -523,7 +523,7 @@
             "class": "DomainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 323,
             "description": "remove an existing alias",
             "itemtype": "method",
@@ -538,7 +538,7 @@
             "class": "DomainCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 340,
             "description": "initialises the controller-data",
             "itemtype": "method",
@@ -546,7 +546,7 @@
             "class": "TransportCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 350,
             "description": "returns the list of the Transports",
             "itemtype": "method",
@@ -558,7 +558,7 @@
             "class": "TransportCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 360,
             "description": "create a new transport",
             "itemtype": "method",
@@ -566,7 +566,7 @@
             "class": "TransportCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 387,
             "description": "edit an existing transport",
             "itemtype": "method",
@@ -581,7 +581,7 @@
             "class": "TransportCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 409,
             "description": "remove an existing transport",
             "itemtype": "method",
@@ -596,7 +596,7 @@
             "class": "TransportCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 447,
             "description": "on change Event for the Domains",
             "itemtype": "method",
@@ -604,7 +604,7 @@
             "class": "UserCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 472,
             "description": "initialises the controller-data",
             "itemtype": "method",
@@ -612,7 +612,7 @@
             "class": "UserCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 483,
             "description": "destroys the controller-data",
             "itemtype": "method",
@@ -620,7 +620,7 @@
             "class": "UserCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 492,
             "description": "returns the list of the Users",
             "itemtype": "method",
@@ -632,7 +632,7 @@
             "class": "UserCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 502,
             "description": "get the current domain",
             "itemtype": "method",
@@ -644,7 +644,7 @@
             "class": "UserCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 512,
             "description": "create a new domain",
             "itemtype": "method",
@@ -652,7 +652,7 @@
             "class": "UserCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 540,
             "description": "edit an existing user",
             "itemtype": "method",
@@ -667,7 +667,7 @@
             "class": "UserCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 576,
             "description": "remove an existing user",
             "itemtype": "method",
@@ -682,7 +682,7 @@
             "class": "UserCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 602,
             "description": "clears the view",
             "itemtype": "method",
@@ -690,7 +690,7 @@
             "class": "UserAliasCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 613,
             "description": "initialises the controller-data",
             "itemtype": "method",
@@ -698,7 +698,7 @@
             "class": "UserAliasCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 625,
             "description": "returns the list of the UserAliasses",
             "itemtype": "method",
@@ -710,7 +710,7 @@
             "class": "UserAliasCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 635,
             "description": "create a new alias",
             "itemtype": "method",
@@ -725,7 +725,7 @@
             "class": "UserAliasCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 646,
             "description": "remove an existing alias",
             "itemtype": "method",
@@ -740,7 +740,7 @@
             "class": "UserAliasCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 664,
             "description": "initialises the controller-data",
             "itemtype": "method",
@@ -748,7 +748,7 @@
             "class": "SummaryCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 674,
             "description": "returns the list of the Summaries",
             "itemtype": "method",
@@ -760,7 +760,7 @@
             "class": "SummaryCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 691,
             "description": "initialises the controller-data",
             "itemtype": "method",
@@ -768,7 +768,7 @@
             "class": "ApiKeyCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 701,
             "description": "returns the list of the ApiKeys",
             "itemtype": "method",
@@ -780,7 +780,7 @@
             "class": "ApiKeyCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 711,
             "description": "create a new api-key",
             "itemtype": "method",
@@ -788,7 +788,7 @@
             "class": "ApiKeyCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 738,
             "description": "edit an existing api-key",
             "itemtype": "method",
@@ -803,7 +803,7 @@
             "class": "ApiKeyCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 760,
             "description": "remove an existing api-key",
             "itemtype": "method",
@@ -818,7 +818,7 @@
             "class": "ApiKeyCtrl"
         },
         {
-            "file": "dev\\js\\controllers.js",
+            "file": "dev/js/controllers.js",
             "line": 778,
             "description": "transfers the api-key to the ImageName (valid,expired,inactive)",
             "itemtype": "method",
@@ -833,49 +833,49 @@
             "class": "ApiKeyCtrl"
         },
         {
-            "file": "dev\\js\\directives.js",
+            "file": "dev/js/directives.js",
             "line": 16,
             "description": "directive which returns the app-version defined in the postySoft.services",
             "directive": "appVersion",
             "class": "Page"
         },
         {
-            "file": "dev\\js\\directives.js",
+            "file": "dev/js/directives.js",
             "line": 27,
             "description": "directive to validate passwords in the html-view",
             "directive": "passwordValidator",
             "class": "Page"
         },
         {
-            "file": "dev\\js\\directives.js",
+            "file": "dev/js/directives.js",
             "line": 54,
             "description": "directive to focus an element in the html-view",
             "directive": "focus",
             "class": "Page"
         },
         {
-            "file": "dev\\js\\directives.js",
+            "file": "dev/js/directives.js",
             "line": 67,
             "description": "directive to build a simple chart in the html-view",
             "directive": "barsChart",
             "class": "Page"
         },
         {
-            "file": "dev\\js\\directives.js",
+            "file": "dev/js/directives.js",
             "line": 100,
             "description": "directive to open the datepicker",
             "directive": "dateclick",
             "class": "Page"
         },
         {
-            "file": "dev\\js\\directives.js",
+            "file": "dev/js/directives.js",
             "line": 119,
             "description": "directive to open a dropdown-menu without\nchanging the route (href-directive)",
             "directive": "dropdownclick",
             "class": "Page"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 62,
             "description": "opens the modal view",
             "itemtype": "method",
@@ -895,7 +895,7 @@
             "class": "ModalService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 136,
             "description": "opens the modal view",
             "itemtype": "method",
@@ -903,7 +903,7 @@
             "class": "SelectDomainService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 181,
             "description": "opens the modal view",
             "itemtype": "method",
@@ -911,7 +911,7 @@
             "class": "SelectServerService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 198,
             "description": "pushes the process-stack",
             "itemtype": "method",
@@ -919,7 +919,7 @@
             "class": "SelectServerService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 207,
             "description": "pops an element fromt the process-stack",
             "itemtype": "method",
@@ -927,7 +927,7 @@
             "class": "SelectServerService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 216,
             "description": "refers if the stack is full or not",
             "itemtype": "method",
@@ -939,7 +939,7 @@
             "class": "SelectServerService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 267,
             "description": "add an alert to the service\nand sets an timeout that removes the alert out of the alert-list",
             "itemtype": "method",
@@ -947,7 +947,7 @@
             "class": "ErrorService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 278,
             "description": "closes an alert by index of the alert-list",
             "itemtype": "method",
@@ -955,7 +955,7 @@
             "class": "ErrorService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 286,
             "description": "returns the statusCode",
             "itemtype": "method",
@@ -967,7 +967,7 @@
             "class": "ErrorService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 295,
             "description": "returns the message",
             "itemtype": "method",
@@ -979,7 +979,7 @@
             "class": "ErrorService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 304,
             "description": "returns if an error is occurred or not",
             "itemtype": "method",
@@ -991,7 +991,7 @@
             "class": "ErrorService"
         },
         {
-            "file": "dev\\js\\services.js",
+            "file": "dev/js/services.js",
             "line": 323,
             "description": "adding responses to the local list",
             "itemtype": "method",
@@ -1009,63 +1009,63 @@
     "warnings": [
         {
             "message": "unknown tag: directive",
-            "line": " dev\\js\\directives.js:16"
+            "line": " dev/js/directives.js:16"
         },
         {
             "message": "unknown tag: directive",
-            "line": " dev\\js\\directives.js:27"
+            "line": " dev/js/directives.js:27"
         },
         {
             "message": "unknown tag: directive",
-            "line": " dev\\js\\directives.js:54"
+            "line": " dev/js/directives.js:54"
         },
         {
             "message": "unknown tag: directive",
-            "line": " dev\\js\\directives.js:67"
+            "line": " dev/js/directives.js:67"
         },
         {
             "message": "unknown tag: directive",
-            "line": " dev\\js\\directives.js:100"
+            "line": " dev/js/directives.js:100"
         },
         {
             "message": "unknown tag: directive",
-            "line": " dev\\js\\directives.js:119"
+            "line": " dev/js/directives.js:119"
         },
         {
             "message": "Missing item type\nRun-Configuration of the Apllication-Settings",
-            "line": " dev\\js\\conf.js:20"
+            "line": " dev/js/conf.js:20"
         },
         {
             "message": "Missing item type\nConfiguration of the Apllication-Views",
-            "line": " dev\\js\\conf.js:63"
+            "line": " dev/js/conf.js:63"
         },
         {
             "message": "Missing item type\nGlobal constants for the Application",
-            "line": " dev\\js\\conf.js:74"
+            "line": " dev/js/conf.js:74"
         },
         {
             "message": "Missing item type\ndirective which returns the app-version defined in the postySoft.services",
-            "line": " dev\\js\\directives.js:16"
+            "line": " dev/js/directives.js:16"
         },
         {
             "message": "Missing item type\ndirective to validate passwords in the html-view",
-            "line": " dev\\js\\directives.js:27"
+            "line": " dev/js/directives.js:27"
         },
         {
             "message": "Missing item type\ndirective to focus an element in the html-view",
-            "line": " dev\\js\\directives.js:54"
+            "line": " dev/js/directives.js:54"
         },
         {
             "message": "Missing item type\ndirective to build a simple chart in the html-view",
-            "line": " dev\\js\\directives.js:67"
+            "line": " dev/js/directives.js:67"
         },
         {
             "message": "Missing item type\ndirective to open the datepicker",
-            "line": " dev\\js\\directives.js:100"
+            "line": " dev/js/directives.js:100"
         },
         {
             "message": "Missing item type\ndirective to open a dropdown-menu without\nchanging the route (href-directive)",
-            "line": " dev\\js\\directives.js:119"
+            "line": " dev/js/directives.js:119"
         }
     ]
 }
